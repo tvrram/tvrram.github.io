@@ -1,0 +1,123 @@
+body{
+   margin: 0;
+   padding: 0;
+   font-family: 'arial', serif;
+}
+
+.pic1{
+    padding: 50px 0 0 50px;
+    
+}
+.allpics{
+   margin: 0, auto;
+   margin-left: 120px;
+   
+   
+   
+   
+}
+
+.h1{
+    background-color: gray;
+    color: red;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+ 
+}
+
+.nav{
+    background-color: red;
+    color: black;
+    list-style: none;
+    text-align: center;
+    padding: 20px 0 20px 0;
+    font-weight: 600;
+
+}   
+
+.nav1{
+    background-color: yellowgreen;
+    padding: 20px 14px;
+}
+
+.nav li{
+display: inline;
+padding-right: 50px;
+
+}
+
+.nav > li >  a {
+    text-decoration: none;
+    color: black;
+}
+
+.nav > li >  a:hover{
+    color: white;
+}
+
+.big-r{
+    font-size: 40px;
+}
+
+.text{
+    padding: 40px 40px;
+    margin: 50px;
+    text-align: justify;
+    background-color:lightcyan;
+    width: 20%;
+    display: inline-block;
+
+
+}
+
+.text1{
+    padding: 40px 40px;
+    margin: 50px;
+    text-align: justify;
+    background-color:peru;
+    width: 20%;
+    display: inline-block;
+}
+
+.BG{
+    background-color:lavender;
+   }
+
+   .maintitle{
+    text-align: center;
+    margin-bottom: 75px;
+   font-size: 22px;
+  
+   }
+
+   .ibg{
+    background-image: url(https://images2.alphacoders.com/469/469336.jpg);  
+    opacity: 1;
+    z-index: 2;
+   }
+
+    
+
+.T{
+    display: inline-block;
+    width: 210px;
+    height: 436px;
+    font-size: 16px;
+    font-style: italic;
+    color: orangered;
+    margin-left: 150px;
+    text-align: justify;
+    z-index: 1;
+    
+}
+
+
+.foot{
+    background-color: red;
+    height: 200px;
+    padding: 50px;
+    
+}
+
